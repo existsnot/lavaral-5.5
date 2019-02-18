@@ -1,0 +1,1 @@
+<script src="{{$CDN}}/js/require{{$site['debug']?'':'.min'}}.js" data-main="{{$CDN}}/js/require-backend{{$site['debug']?'':'.min'}}.js?v={{$site['version']}}"></script>
